@@ -1,12 +1,14 @@
-# miniPaint
+# PolishedPaint
 
-Online image editor lets you create, edit images using HTML5 technologies.
-No need to buy, download, install or have obsolete flash. No ads.
-Key features: layers, filters, HTML5, open source, Photoshop alternative.
+[Forked from miniPaint](https://github.com/viliusle/miniPaint)
 
-miniPaint operates directly in the browser. You can create images, paste from the clipboard (ctrl+v) 
+PolishedPaint is a GUI remake of miniPaint, with modern UI design practices in mind. miniPaint users should be totally comfortable in using it.
+
+PolishedPaint operates directly in the browser. You can create images, paste from the clipboard (ctrl+v) 
 or upload from the computer (using menu or drag & drop). Nothing will be sent to any server. Everything stays in your 
-browser. 
+browser.
+
+However, PolishedPaint can also be run as a desktop app. On desktop, you get the same experience as the web version, as well as native integration with your desktop. Download it [here](#).
 
 ## URL:
 **https://viliusle.github.io/miniPaint/**
